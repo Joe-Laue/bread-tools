@@ -1,6 +1,6 @@
 # bread-tools
 Basic processing tools in common algorithms.
-this is a package, use  ```pip install bread-tools ``` to install it.
+this is a package, use  ```pip install bread-tools```  to install it.
 
 ---
 ### 1. Gen requirements.txt.
