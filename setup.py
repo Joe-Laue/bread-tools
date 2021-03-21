@@ -4,7 +4,7 @@ from os import path
 here = path.abspath(path.dirname(__file__))
 setup(
     name='bread-tools',
-    version='0.0.2',
+    version='0.0.4',
     description='Basic processing tools in common algorithms.',
     url='https://github.com/Joe-Laue/bread-tools',
 
@@ -16,7 +16,8 @@ setup(
     packages=['bread.tools.data',
               'bread.tools.file',
               'bread.tools.log',
-              'bread.tools.text'],
+              'bread.tools.text',
+              'bread.tools.net'],
 
     # License
     license='MIT',
